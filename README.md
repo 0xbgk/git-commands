@@ -2,8 +2,8 @@
 
 ### Git Yapılandırması
 
-`git config --global user.name "Fatih"` <br>
-`git config --global user.email "fatih_duygu@hotmail.com"` <br>
+`git config --global user.name "BGK"` <br>
+`git config --global user.email "gorkemkizilok@gmail.com"` <br>
 - Global seviyedeki tüm ayarları listelemek için ; <br>
 `git config --global -l` <br>
 
@@ -109,7 +109,7 @@
 
 ### Remote Proje Oluşturma
 
-`git clone https:/github.com/fatihhduygu/...`<br>
+`git clone https:/github.com/bgorkemk/...`<br>
 - Projeyi clonelayınca fetch ve push değerleri gelir ve remote ismi varsayılan olarak origin'dir.<br>
 - Projeyi push etmek için ;<br>
 `git push origin master`<br>
